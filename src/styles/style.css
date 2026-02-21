@@ -47,7 +47,6 @@ header {
     flex-direction: column;
     gap: 12px;
     width: 80%;
-    width: 400px;
     height: 250px;
     position: relative;
     background: var(--secondary);
